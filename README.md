@@ -36,3 +36,9 @@ This repository includes implementations of the following algorithms:
 - **Greedy Algorithms**: `greedy.py` - Various greedy algorithms for optimization problems.
 
 ## 🚀 Getting Started
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📬 Contact
+For any questions or feedback, feel free to reach out to me at  jvg.jeevan@gmail.com .
