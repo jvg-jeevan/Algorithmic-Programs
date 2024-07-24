@@ -37,8 +37,11 @@ This repository includes implementations of the following algorithms:
 
 ## 🚀 Getting Started
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📄 License
 
-📬 Contact
-For any questions or feedback, feel free to reach out to me at  jvg.jeevan@gmail.com .
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+For any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+
