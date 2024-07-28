@@ -9,6 +9,15 @@ Linear Search is a fundamental search algorithm that operates on a list of eleme
 3. If the target value matches the current element, return the index of the current element.
 4. If the target value does not match and the end of the list is reached, return a value indicating the target is not present (e.g., `-1`).
 
+### Pseudocode:
+```python
+function linear_search(arr, target):
+    for i in range(len(arr)):
+        if arr[i] == target:
+            return i
+    return -1
+```
+
 ## Time Complexity
 - **Worst-case Time Complexity**: O(n)
 - **Best-case Time Complexity**: O(1)
