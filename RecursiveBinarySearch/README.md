@@ -22,7 +22,7 @@ Binary search is an efficient algorithm for finding an item from a sorted list o
    - if the current bounds are invalid (`low > high`), the target is not in the array. return `-1`.
 
 ### Pseudocode:
-'''
+'''python
 function binary_search(arr, low, high, target):
     if low > high:
         return -1
@@ -33,7 +33,7 @@ function binary_search(arr, low, high, target):
         return binary_search(arr, low, mid - 1, target)
     else:
         return binary_search(arr, mid + 1, high, target)
-'''
+
 
 
 ### Time Complexity
