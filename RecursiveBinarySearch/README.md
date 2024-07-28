@@ -33,8 +33,7 @@ function binary_search(arr, low, high, target):
         return binary_search(arr, low, mid - 1, target)
     else:
         return binary_search(arr, mid + 1, high, target)
-
-
+```
 
 ### Time Complexity
 - **Best Case**: O(1) - when the middle element is the target.
