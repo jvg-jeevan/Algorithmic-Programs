@@ -37,7 +37,7 @@ function bubble_sort(arr, n):
 ### Example
 
 Consider an unsorted array:
-`arr = [64, 34, 25, 12, 22, 11, 90, 88, 77, 45, 23, 56, 43, 67, 29, 15, 80, 66, 54, 31]
+`arr = [64, 34, 25, 12, 22, 11, 90, 88, 77, 45, 23, 56, 43, 67, 29, 15, 80, 66, 54, 31]`
 
 After applying Bubble Sort, the sorted array will be:
 `arr = [11, 12, 15, 22, 23, 25, 29, 31, 34, 43, 45, 54, 56, 64, 66, 67, 77, 80, 88, 90]`
