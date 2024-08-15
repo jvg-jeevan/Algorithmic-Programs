@@ -1,4 +1,4 @@
-def insertion_sort(arr, n):
+def insertion_sort(arr -> list, n -> int) -> None:
     """
     function to sort the elements in the array in increasing order using insertion sort.
     in this sorting technique, each element is placed in its correct position within the already sorted part of the array.
